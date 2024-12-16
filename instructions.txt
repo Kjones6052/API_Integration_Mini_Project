@@ -1,0 +1,22 @@
+API Integration Mini-Project
+
+Project Requirements
+
+1. Homepage:
+Design a visually appealing landing page with Bootstrap components and custom CSS styles.
+Implement responsive design principles to ensure compatibility across various devices and screen sizes.
+status: COMPLETE
+
+2. Pokémon Search Page:
+Create a search page where users can enter a Pokémon's name or ID to retrieve relevant information.
+Utilize JavaScript to fetch data from the PokeAPI and dynamically update the webpage content based on user input.
+status: COMPLETE
+
+3. Pokémon Details Page:
+Develop a details page that displays comprehensive information about a specific Pokémon, including its abilities, types, stats, and image.
+Apply CSS styling to enhance the presentation of Pokémon details and ensure readability.
+status: COMPLETE
+
+GitHub Repository Reminder:
+Maintain a clean and interactive README.md file in the GitHub repository, providing clear instructions on how to run the application and explanations of its features.
+Include a link to the GitHub repository in the project documentation.
